@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Fábio Nascimento  <br>
 
-🎓 Professor Universitário | 💻 Profissional de TI 
+
 <br><br><br><br>
 Bem-vindo ao meu GitHub!<br><br>
 
