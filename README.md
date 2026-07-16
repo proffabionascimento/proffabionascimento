@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Fábio Nascimento  <br>
 
 
-<br><br><br><br>
+<br>
 Bem-vindo ao meu GitHub!
 <br><br><br>
 
