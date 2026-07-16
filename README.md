@@ -2,7 +2,8 @@
 
 
 <br><br><br><br>
-Bem-vindo ao meu GitHub!<br><br>
+Bem-vindo ao meu GitHub!
+<br><br><br>
 
 Este espaço foi criado para compartilhar conhecimento e disponibilizar materiais de apoio para estudantes e profissionais da área de Tecnologia da Informação.<br><br>
 
