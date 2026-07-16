@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Fábio Nascimento  <br>
 
 🎓 Professor Universitário | 💻 Profissional de TI <br>
-
+----<br><br>
 Bem-vindo ao meu GitHub!<br>
 
 Este espaço foi criado para compartilhar conhecimento e disponibilizar materiais de apoio para estudantes e profissionais da área de Tecnologia da Informação.<br>
